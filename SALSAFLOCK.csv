@@ -1,0 +1,38 @@
+Source:,/home/schuyler/Development/retroreflectors/SALSAFLOCK/SALSAFLOCK.sch
+Date:,Tue 26 Aug 2014 07:44:28 PM MST
+Tool:,Eeschema (2014-jul-16 BZR unknown)-product
+Component Count:,15
+
+Individual Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Description,Manufacturer,Note,Part Number
+,,C1,22uF,device:C,,,,,,
+,,C2,1uF,device:C,,,,,,
+,,D1,DIODE-SOT23-3,retroreflectors:DIODE-SOT23-3,,,DIODE SCHOTTKY 30V 0.2A SOT23-3,Fairchild,,BAT54
+,,D2,DIODE-SOT23-3,retroreflectors:DIODE-SOT23-3,,,DIODE SCHOTTKY 30V 0.2A SOT23-3,Fairchild,,BAT54
+,,J1,DB15-VGA,retroreflectors:DB15-VGA,,,,,,
+,,J2,DB15-VGA,retroreflectors:DB15-VGA,,,,,,
+,,P2,ANTENNA,SALSAFLOCK-cache:CONN_2,,,,,,
+,,Q1,MOSFET_N,retroreflectors:MOS_N4,,,MOSFET N-CH 10V 50MA SOT-143B,NXP,,"BSS83,215"
+,,Q2,MOSFET_N,retroreflectors:MOS_N4,,,MOSFET N-CH 10V 50MA SOT-143B,NXP,,"BSS83,215"
+,,R1,DNP,device:R,,,,,DNP,
+,,R2,10k,device:R,,,,,,
+,,R3,0,device:R,,,,,DNP,
+,,R4,0,device:R,,,,,DNP,
+,,R5,10k,device:R,,,,,,
+,,R6,10k,device:R,,,,,,
+
+
+
+Collated Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Description,Manufacturer,Note,Part Number
+1,1,C1,22uF,device:C,,,,,,
+2,1,C2,1uF,device:C,,,,,,
+3,2,"D1, D2",DIODE-SOT23-3,retroreflectors:DIODE-SOT23-3,,,DIODE SCHOTTKY 30V 0.2A SOT23-3,Fairchild,,BAT54
+4,2,"J1, J2",DB15-VGA,retroreflectors:DB15-VGA,,,,,,
+5,1,P2,ANTENNA,SALSAFLOCK-cache:CONN_2,,,,,,
+6,2,"Q1, Q2",MOSFET_N,retroreflectors:MOS_N4,,,MOSFET N-CH 10V 50MA SOT-143B,NXP,,"BSS83,215"
+7,1,R1,DNP,device:R,,,,,DNP,
+8,3,"R2, R5, R6",10k,device:R,,,,,,
+9,2,"R3, R4",0,device:R,,,,,DNP,

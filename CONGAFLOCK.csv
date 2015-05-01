@@ -1,0 +1,27 @@
+Source:,/home/schuyler/Development/retroreflectors/CONGAFLOCK/CONGAFLOCK.sch
+Date:,Tue 26 Aug 2014 07:23:52 PM MST
+Tool:,Eeschema (2014-jul-16 BZR unknown)-product
+Component Count:,7
+
+Individual Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Description,Manufacturer,Note,Part Number
+,,P1,INPUT,CONGAFLOCK-cache:CONN_2,,,,,,
+,,P2,ANTENNA,CONGAFLOCK-cache:CONN_2,,,,,,
+,,Q1,MOSFET_N,device:MOSFET_N,,,MOSFET N-CH 30V 180MA SC-75,NXP,,"NX3020NAKT,115"
+,,R1,DNP,device:R,,,,,DNP,
+,,R2,10k,device:R,,,,,,
+,,R3,0,device:R,,,,,DNP,
+,,R4,0,device:R,,,,,DNP,
+
+
+
+Collated Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Description,Manufacturer,Note,Part Number
+1,1,P1,INPUT,CONGAFLOCK-cache:CONN_2,,,,,,
+2,1,P2,ANTENNA,CONGAFLOCK-cache:CONN_2,,,,,,
+3,1,Q1,MOSFET_N,device:MOSFET_N,,,MOSFET N-CH 30V 180MA SC-75,NXP,,"NX3020NAKT,115"
+4,1,R1,DNP,device:R,,,,,DNP,
+5,1,R2,10k,device:R,,,,,,
+6,2,"R3, R4",0,device:R,,,,,DNP,

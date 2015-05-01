@@ -1,0 +1,27 @@
+Source:,/home/schuyler/Development/retroreflectors/RUMBAFLOCK/RUMBAFLOCK.sch
+Date:,Tue 26 Aug 2014 07:39:02 PM MST
+Tool:,Eeschema (2014-jul-16 BZR unknown)-product
+Component Count:,7
+
+Individual Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Manufacturer,Note,Part Number
+,,D1,PIN,device:DIODE,,,Infineon,,BAR 64-02V H6327
+,,P1,INPUT,RUMBAFLOCK-cache:CONN_2,,,,,
+,,P2,ANTENNA,RUMBAFLOCK-cache:CONN_2,,,,,
+,,R1,DNP,device:R,,,,DNP,
+,,R2,10k,device:R,,,,,
+,,R3,0,device:R,,,,DNP,
+,,R4,0,device:R,,,,DNP,
+
+
+
+Collated Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Manufacturer,Note,Part Number
+1,1,D1,PIN,device:DIODE,,,Infineon,,BAR 64-02V H6327
+2,1,P1,INPUT,RUMBAFLOCK-cache:CONN_2,,,,,
+3,1,P2,ANTENNA,RUMBAFLOCK-cache:CONN_2,,,,,
+4,1,R1,DNP,device:R,,,,DNP,
+5,1,R2,10k,device:R,,,,,
+6,2,"R3, R4",0,device:R,,,,DNP,

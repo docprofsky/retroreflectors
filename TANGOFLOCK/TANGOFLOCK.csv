@@ -1,0 +1,23 @@
+Source:,/home/schuyler/Development/retroreflectors/TANGOFLOCK/TANGOFLOCK.sch
+Date:,Tue 26 Aug 2014 07:45:14 PM MST
+Tool:,Eeschema (2014-jul-16 BZR unknown)-product
+Component Count:,5
+
+Individual Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Description,Manufacturer,Part Number
+,,J1,USB-DEVICE-SHIELD,retroreflectors:USB-DEVICE-SHIELD,,,,,
+,,J2,USB-DEVICE-SHIELD,retroreflectors:USB-DEVICE-SHIELD,,,,,
+,,P2,ANTENNA,TANGOFLOCK-cache:CONN_2,,,,,
+,,Q1,MOSFET_N,retroreflectors:MOS_N4,,,MOSFET N-CH 10V 50MA SOT-143B,NXP,"BSS83,215"
+,,R2,10k,device:R,,,,,
+
+
+
+Collated Components:
+
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,Description,Manufacturer,Part Number
+1,2,"J1, J2",USB-DEVICE-SHIELD,retroreflectors:USB-DEVICE-SHIELD,,,,,
+2,1,P2,ANTENNA,TANGOFLOCK-cache:CONN_2,,,,,
+3,1,Q1,MOSFET_N,retroreflectors:MOS_N4,,,MOSFET N-CH 10V 50MA SOT-143B,NXP,"BSS83,215"
+4,1,R2,10k,device:R,,,,,
